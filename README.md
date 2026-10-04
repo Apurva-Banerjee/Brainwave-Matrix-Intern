@@ -1,4 +1,5 @@
-# Brainwave-Matrix-Intern
+# Inventory Management System
+
 
 Inventory Management System:
 
